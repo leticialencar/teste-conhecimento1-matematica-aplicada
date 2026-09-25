@@ -1,4 +1,4 @@
-# Teste de Conhecimento 1 - Matemática Aplicada à Computação
+# Teste de Conhecimento 1
 
 Repositório destinado ao Teste de Conhecimento 1 da disciplina de Matemática Aplicada à Computação.
 
